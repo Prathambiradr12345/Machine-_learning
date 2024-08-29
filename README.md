@@ -1,2 +1,2 @@
 # Machine-_learning
-MAChine Learning Code
+Machine Learning Code
